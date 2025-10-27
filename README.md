@@ -1,4 +1,4 @@
-# Bike Investment Dashboard
+# 🚴‍♀️ Bike Investment Dashboard
 
 ### Executive Summary:
 
